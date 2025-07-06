@@ -2,7 +2,7 @@
 
 **Chemineers Society, IIT Kanpur**  
 *January 2025 – April 2025*  
- Guided by society leads | 🌍 Focused on sustainability and circularity
+ Guided by society leads |  Focused on sustainability and circularity
 
 ##  Overview
 This project aimed to analyze and optimize industrial waste streams across multiple sectors using simulation tools, life-cycle assessment frameworks, and valorization techniques. Special focus was given to process inefficiencies, environmental impact, and the economic viability of waste management strategies.
@@ -41,7 +41,7 @@ This project aimed to analyze and optimize industrial waste streams across multi
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 -  ASPEN Plus  
 -  Python (data analysis & visualization)  
 -  LCA & PCF tools  
